@@ -1,0 +1,15 @@
+{
+  "short_name": "Bubble",
+  "name": "Bubble",
+  "icons": [
+    {
+      "src": "bubbles.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./",
+  "background_color": "#ccc",
+  "Theme_color": "#fff",
+  "display": "fullscreen"
+}
